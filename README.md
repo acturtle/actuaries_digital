@@ -1,1 +1,1 @@
-# model
+Actuarial cash flow models built in Python with the cashflower package.
